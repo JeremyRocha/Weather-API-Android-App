@@ -45,9 +45,9 @@ The app demonstrates API integration, asynchronous networking, and MVVM architec
 
 **Screenshots**
 - Search Screen
-  ![Search Screen](https://i.gyazo.com/61bcd1e993f3c72db24c9b4d3afaf89b.png)
-- City Results (RecyclerView)
-  ![City Results](https://i.gyazo.com/59781bcdd048d94de88c5a78f86c7e61.png)
+- ![Search Screen](https://i.gyazo.com/61bcd1e993f3c72db24c9b4d3afaf89b.png)
+- City Results
+- ![City Results](https://i.gyazo.com/59781bcdd048d94de88c5a78f86c7e61.png)
 
 **Resources Used ** 
 - Weather API  
